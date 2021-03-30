@@ -2,17 +2,7 @@
 
 int main(){
 
-print("helo");
-
-
-
-
-
-
-
-
-
-
+print("helo\n\ntest mikonim test");
 
 
 
